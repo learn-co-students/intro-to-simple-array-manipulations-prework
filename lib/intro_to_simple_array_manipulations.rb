@@ -13,3 +13,7 @@ def using_pop(array)
   array.pop
   return var
 end
+
+def pop_with_args(array)
+  array.pop(array.count-2)
+end
