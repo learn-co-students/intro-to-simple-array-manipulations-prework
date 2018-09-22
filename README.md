@@ -1,4 +1,4 @@
-## Objectives
+l## Objectives
 
 1. Become comfortable using the official documentation of the Ruby Language.
 2. Gain proficiency performing simple array manipulations.
