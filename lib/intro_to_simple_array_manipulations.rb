@@ -35,7 +35,7 @@ def using_delete_at(array,integer)
   i = 0 
   while (i < array.length)
   if i == integer
-    new_array = (array.delete_at(i))
+    new_array = array.delete_at(i)
   end 
   i += 1
 end
